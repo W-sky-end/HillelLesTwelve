@@ -1,6 +1,4 @@
-package outprint;
-
-import app.StaffMember;
+package app;
 
 public class Printer {
     public static void print(StaffMember staffMember) {

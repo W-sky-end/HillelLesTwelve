@@ -1,4 +1,4 @@
-package corporate_vehicle;
+package app;
 
 public class Car {
 
