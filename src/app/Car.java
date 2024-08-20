@@ -17,6 +17,4 @@ public class Car {
         System.out.println("Fuel system started");
     }
 
-    public static void main(String[] args) {
-    }
 }
